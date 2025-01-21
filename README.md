@@ -1,5 +1,8 @@
 # Heart Rate and Energy Monitoring App
 
+### Espruino Web IDE
+	 https://www.espruino.com/ide/
+
 ## Overview
 
 This is a lightweight app designed for Bangle.js that monitors heart rate, calculates cumulative energy expenditure in kilojoules (kJ), and alerts the user if energy output approaches a predefined threshold. The app offers a real-time display of data and incorporates interactive functionality to start/stop monitoring and dismiss warnings.
