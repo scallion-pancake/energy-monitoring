@@ -67,7 +67,7 @@ This is a lightweight app designed for Bangle.js that monitors heart rate, calcu
     	•	The app will dim the screen and reset energy data.
 
 ### Customization
-  To adapt the app to your needs:
+	  • 	To adapt the app to your needs:
     	•	Update Interval: Modify updateInterval to adjust the refresh rate (default is 20 seconds).
     	•	Maximum Energy Threshold: Change maxBTU to set a new limit.
     	•	Brightness Settings: Adjust Bangle.setLCDBrightness() values to suit your preferences.
